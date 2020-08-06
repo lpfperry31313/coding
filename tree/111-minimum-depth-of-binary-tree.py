@@ -5,7 +5,8 @@ https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/
 时间 O(N)
     遍历每一个节点
 空间 O(N)
-    最坏情况 退化成链表 O(N)
+    递归调用 树的高度 次
+    最坏情况  O(N), 最好情况 O(logN)
 """
 
 
