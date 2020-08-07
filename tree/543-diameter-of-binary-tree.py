@@ -3,6 +3,8 @@
 https://leetcode-cn.com/problems/diameter-of-binary-tree/
 时间 O(N) 遍历每一个节点
 空间 O(height)
+
+不需要DP
 """
 
 
